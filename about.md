@@ -29,7 +29,7 @@ permalink: /about/
    &nbsp; My github is <a href = "https://github.com/caotic123">caotic123</a>, <a href = "https://repl.it/@caotic">repl.it</a>  and <a href = "https://www.instagram.com/t_camposf/">instragram</a>. I am open for any opportunity or initiative so feels free to send a email (or any way you find me out):  camposferreiratiago@gmail.com
     </div>
 
-    <img src="http://localhost:4000/assets/images/image.jpg" alt="drawing" width="150"/>
+    <img src="https://caotic123.github.io/tiagocampos/assets/images/image.jpg" alt="drawing" width="150"/>
 
 
    </div>
